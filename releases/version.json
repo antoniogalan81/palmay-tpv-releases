@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.22",
-    "releaseDate":  "2026-06-30",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.22/PalmaCoco-1.0.22.zip",
-    "sha256":  "6284f788995f4c158ae466a92eba1af725a1623154a43a908745b90fd22f42fc",
-    "notes":  "Version 1.0.22"
+    "version":  "1.0.24",
+    "releaseDate":  "2026-07-08",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.24/PalmaCoco-1.0.24.zip",
+    "sha256":  "0dac190c9224a01ef0439275fe5bfa0d05e04096cc8d46626f4a654d0d4d4d4e",
+    "notes":  "- 7a3af07 feat(tpv/admin): caja real (retiradas/ingresos), fix horas y alertas de descuadre\n- cef9600 chore(tpv): bump version 1.0.22 -\u003e 1.0.23 (incluye botÃ³n Retirar)\n- da73073 feat(tpv/admin): recupera botÃ³n y flujo de \"Retirar\" efectivo"
 }
