@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.24",
-    "releaseDate":  "2026-07-08",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.24/PalmaCoco-1.0.24.zip",
-    "sha256":  "0dac190c9224a01ef0439275fe5bfa0d05e04096cc8d46626f4a654d0d4d4d4e",
-    "notes":  "- 7a3af07 feat(tpv/admin): caja real (retiradas/ingresos), fix horas y alertas de descuadre\n- cef9600 chore(tpv): bump version 1.0.22 -\u003e 1.0.23 (incluye botÃ³n Retirar)\n- da73073 feat(tpv/admin): recupera botÃ³n y flujo de \"Retirar\" efectivo"
+    "version":  "1.0.25",
+    "releaseDate":  "2026-07-26",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.25/PalmaCoco-1.0.25.zip",
+    "sha256":  "1d7bf40c8adcaf7acf6f207f2f13acd6796e7425d4f9b64c376b96bc015ba112",
+    "notes":  "- 7567606 chore(tpv): bump version 1.0.24 -\u003e 1.0.25\n- b30e6b3 fix(admin/alertas): fuente canâ”œâ”‚nica â”œâ•‘nica para el contador Ã”Ã‡Ã¶ corrige badge 30 vs Pendientes 1\n- 106c895 feat(admin/movimientos-caja): hora exacta de la retirada + imputaciâ”œâ”‚n al turno real (sin tocar la facturaciâ”œâ”‚n)\n- da7fb26 fix(admin/horas): capa canâ”œâ”‚nica sin bloques solapados Ã”Ã‡Ã¶ corrige doble câ”œâ”‚mputo (Danila/FLOW/06-07)\n- 864d9c3 feat(admin/pagos): claridad cross-tienda en el detalle de horas + guard anti-solape imposible\n- ca96dfc fix(admin/control-entradas): ediciâ”œâ”‚n real de refuerzos AGRUPADOS (no solo la primera fila)\n- 43d77cb fix(admin): fusiona refuerzos solapados/contiguos de la misma persona/tienda/dâ”œÂ¡a\n- 9f8700d fix(admin): unifica la ventana prevista fusionada en TODOS los mâ”œâ”‚dulos que calculan jornada\n- de2b4f5 fix(admin/control-entradas): agrupa jornada por ventana prevista fusionada de todos los turnos del dâ”œÂ¡a\n- c685cde feat(admin/movimientos-caja): ediciâ”œâ”‚n completa de campos y fecha en alta\n- 1508a70 chore(desktop): release manifest TPV v1.0.24\n- 7a3af07 feat(tpv/admin): caja real (retiradas/ingresos), fix horas y alertas de descuadre\n- cef9600 chore(tpv): bump version 1.0.22 -\u003e 1.0.23 (incluye botâ”œâ”‚n Retirar)\n- da73073 feat(tpv/admin): recupera botâ”œâ”‚n y flujo de \"Retirar\" efectivo"
 }
