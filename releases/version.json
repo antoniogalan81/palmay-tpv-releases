@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.30",
-    "releaseDate":  "2026-08-13",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.30/PalmaCoco-1.0.30.zip",
-    "sha256":  "4165fc70f06c65fc993eacb3609daf94e828990ee16992336145cbd7fa489be2",
-    "notes":  "Perfil Gestor, arqueo con tarjeta y correcciones de facturacion."
+    "version":  "1.0.31",
+    "releaseDate":  "2026-08-14",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.31/PalmaCoco-1.0.31.zip",
+    "sha256":  "ba2a4674815afc16d88cc2a8c3e2061d5dd5e589ffa991fc758d1b1aad84f8fe",
+    "notes":  "- 9b1704d fix(release): la consulta a gh no puede abortar el script\n- 2565485 fix(release): preguntar a GitHub si una version ya salio, no al fichero local\n- 98e5be2 fix(tpv): el aviso de actualizacion ya no puede tapar el TPV, y el updater valida antes de sustituir\n- y 21 cambio(s) mas"
 }
