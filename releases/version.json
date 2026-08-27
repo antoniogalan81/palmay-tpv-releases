@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.31",
-    "releaseDate":  "2026-08-14",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.31/PalmaCoco-1.0.31.zip",
-    "sha256":  "ba2a4674815afc16d88cc2a8c3e2061d5dd5e589ffa991fc758d1b1aad84f8fe",
-    "notes":  "- 9b1704d fix(release): la consulta a gh no puede abortar el script\n- 2565485 fix(release): preguntar a GitHub si una version ya salio, no al fichero local\n- 98e5be2 fix(tpv): el aviso de actualizacion ya no puede tapar el TPV, y el updater valida antes de sustituir\n- y 21 cambio(s) mas"
+    "version":  "1.0.32",
+    "releaseDate":  "2026-08-27",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.32/PalmaCoco-1.0.32.zip",
+    "sha256":  "0b04c6979b6ed7be7263c08f993ab5ddb1bbde7895f80365ea226cbbd8d80d8b",
+    "notes":  "- a2eb2ba test(caja): la comparacion forense verifica el fondo declarado en vez de saltarselo\n- 6c0520a chore(tpv): version 1.0.32 y manifiesto publicado de la 1.0.31\n- 659cc35 feat(caja): una sola verdad canonica de descuadre en Caja, Efectivo y Alertas\n- y 28 cambio(s) mas"
 }
