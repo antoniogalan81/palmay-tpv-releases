@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.35",
+    "version":  "1.0.36",
     "releaseDate":  "2026-08-30",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.35/PalmaCoco-1.0.35.zip",
-    "sha256":  "e9cfb15c8b6df524d30998959c66c2e49db51da8e68c324bc24cd65e1c560e5f",
-    "notes":  "- 264ad68 fix(tpv): los datos fiscales de Palma y Coco solo pueden aplicarse a Palma y Coco\n- 3e6fe7b chore(tpv): version 1.0.34 con la deteccion de desajuste de tienda\n- 02ab318 feat(saas): alta completa de cliente y aislamiento probado contra PRODUCCION\n- y 57 cambio(s) mas"
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.36/PalmaCoco-1.0.36.zip",
+    "sha256":  "72f4a6be2bc2955c1ce56963e85eb9b32fdf30dcbfa407e8c6c178855659349f",
+    "notes":  "- d289d1a chore(tpv): version 1.0.36 con la capa fiscal VERI*FACTU\n- 43b5eb2 feat(verifactu): remision a la AEAT, conservacion en Supabase y aislamiento fiscal probado\n- 5cb3fab feat(verifactu): enchufado a la venta y al ticket, detras de un interruptor apagado\n- y 62 cambio(s) mas"
 }
