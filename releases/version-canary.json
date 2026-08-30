@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.33",
-    "releaseDate":  "2026-08-28",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.33/PalmaCoco-1.0.33.zip",
-    "sha256":  "756d20cc9977a3f2c6675b023699e116c3e139b665ed3736f199d7b912f065d2",
-    "notes":  "- 6fb93b8 chore(tpv): version 1.0.33 con check-in de plataforma apuntando a palmaycoco.com\n- aa54c40 test(tpv): fijar que el updater NUNCA instala sin que alguien pulse\n- a21d2da test(saas): ensayo completo del check-in antes de que lo llame ninguna caja\n- y 49 cambio(s) mas"
+    "version":  "1.0.34",
+    "releaseDate":  "2026-08-30",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.34/PalmaCoco-1.0.34.zip",
+    "sha256":  "6381779c0a9c64be31a994a427fd1bbb3cd439368133f64f4188b207b10394c4",
+    "notes":  "- 3e6fe7b chore(tpv): version 1.0.34 con la deteccion de desajuste de tienda\n- 02ab318 feat(saas): alta completa de cliente y aislamiento probado contra PRODUCCION\n- b6bbb49 feat(saas): Stripe idempotente y a prueba de eventos fuera de orden\n- y 56 cambio(s) mas"
 }
