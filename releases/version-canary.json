@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.39",
+    "version":  "1.0.40",
     "releaseDate":  "2026-08-31",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.39/PalmaCoco-1.0.39.zip",
-    "sha256":  "f5d1df2de02d50209c17d025cd9c5ddc8e50824ff1cacccb236a7919d5acdbe1",
-    "notes":  "- El prefijo de las facturas lo decide cada tienda desde Admin.\n- FLOW y SVQ mantienen su numeracion de siempre."
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.40/PalmaCoco-1.0.40.zip",
+    "sha256":  "968a992bb659bbd2f5ac94c9c7e54001ac1171eb4931a64ac43d5269a2def00c",
+    "notes":  "- El prefijo de las facturas lo decide cada tienda desde Admin.\n- Corregido: el cobro perdia los datos de la factura y no creaba el documento."
 }
