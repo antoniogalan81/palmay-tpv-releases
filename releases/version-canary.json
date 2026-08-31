@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.40",
+    "version":  "1.0.41",
     "releaseDate":  "2026-08-31",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.40/PalmaCoco-1.0.40.zip",
-    "sha256":  "968a992bb659bbd2f5ac94c9c7e54001ac1171eb4931a64ac43d5269a2def00c",
-    "notes":  "- El prefijo de las facturas lo decide cada tienda desde Admin.\n- Corregido: el cobro perdia los datos de la factura y no creaba el documento."
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.41/PalmaCoco-1.0.41.zip",
+    "sha256":  "acd9ca086acfeeff40679911c3c556bb55e9591e1d6acdbc205d81c2687b3b40",
+    "notes":  "- La numeracion de facturas ya no depende solo de este PC.\n- Cada terminal tiene su propia serie: dos cajas no pueden repetir numero."
 }
