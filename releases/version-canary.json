@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.38",
+    "version":  "1.0.39",
     "releaseDate":  "2026-08-31",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.38/PalmaCoco-1.0.38.zip",
-    "sha256":  "0c623ac13c557f3dcadedc2334dd214a16e82fe3bef95b113c305177b473bed4",
-    "notes":  "- cff9348 chore(tpv): version 1.0.38\n- a0bb7f5 refactor(tpv): BORRAR deja de ser especial ΓÇö fuera la ultima excepcion historica\n- b059afe feat(saas): autoservicio, planes en la base, avisos y redaccion de secretos\n- y 71 cambio(s) mas"
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.39/PalmaCoco-1.0.39.zip",
+    "sha256":  "f5d1df2de02d50209c17d025cd9c5ddc8e50824ff1cacccb236a7919d5acdbe1",
+    "notes":  "- El prefijo de las facturas lo decide cada tienda desde Admin.\n- FLOW y SVQ mantienen su numeracion de siempre."
 }
