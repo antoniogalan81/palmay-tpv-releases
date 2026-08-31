@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.38",
+    "version":  "1.0.41",
     "releaseDate":  "2026-08-31",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.38/PalmaCoco-1.0.38.zip",
-    "sha256":  "0c623ac13c557f3dcadedc2334dd214a16e82fe3bef95b113c305177b473bed4",
-    "notes":  "- cff9348 chore(tpv): version 1.0.38\n- a0bb7f5 refactor(tpv): BORRAR deja de ser especial ΓÇö fuera la ultima excepcion historica\n- b059afe feat(saas): autoservicio, planes en la base, avisos y redaccion de secretos\n- y 71 cambio(s) mas"
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.41/PalmaCoco-1.0.41.zip",
+    "sha256":  "acd9ca086acfeeff40679911c3c556bb55e9591e1d6acdbc205d81c2687b3b40",
+    "notes":  "- La numeracion de facturas ya no depende solo de este PC.\n- Cada terminal tiene su propia serie: dos cajas no pueden repetir numero."
 }
