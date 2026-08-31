@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.32",
-    "releaseDate":  "2026-08-27",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.32/PalmaCoco-1.0.32.zip",
-    "sha256":  "0b04c6979b6ed7be7263c08f993ab5ddb1bbde7895f80365ea226cbbd8d80d8b",
-    "notes":  "- a2eb2ba test(caja): la comparacion forense verifica el fondo declarado en vez de saltarselo\n- 6c0520a chore(tpv): version 1.0.32 y manifiesto publicado de la 1.0.31\n- 659cc35 feat(caja): una sola verdad canonica de descuadre en Caja, Efectivo y Alertas\n- y 28 cambio(s) mas"
+    "version":  "1.0.38",
+    "releaseDate":  "2026-08-31",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.38/PalmaCoco-1.0.38.zip",
+    "sha256":  "0c623ac13c557f3dcadedc2334dd214a16e82fe3bef95b113c305177b473bed4",
+    "notes":  "- cff9348 chore(tpv): version 1.0.38\n- a0bb7f5 refactor(tpv): BORRAR deja de ser especial ΓÇö fuera la ultima excepcion historica\n- b059afe feat(saas): autoservicio, planes en la base, avisos y redaccion de secretos\n- y 71 cambio(s) mas"
 }
