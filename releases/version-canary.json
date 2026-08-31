@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.37",
+    "version":  "1.0.38",
     "releaseDate":  "2026-08-31",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.37/PalmaCoco-1.0.37.zip",
-    "sha256":  "672098685830fb7daa637b684d1e6d73ca67d87b8831a71d86ee705c3bb23640",
-    "notes":  "- 1871011 chore(tpv): version 1.0.37 con el rescate de la cola\n- 9bc1296 fix(sync): una vuelta atras ya no descarta para siempre lo que la version vieja no conocia\n- 8a35f23 test(verifactu): offline real y ciclo completo de marcha atras sobre la caja BORRAR\n- y 66 cambio(s) mas"
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.38/PalmaCoco-1.0.38.zip",
+    "sha256":  "0c623ac13c557f3dcadedc2334dd214a16e82fe3bef95b113c305177b473bed4",
+    "notes":  "- cff9348 chore(tpv): version 1.0.38\n- a0bb7f5 refactor(tpv): BORRAR deja de ser especial ΓÇö fuera la ultima excepcion historica\n- b059afe feat(saas): autoservicio, planes en la base, avisos y redaccion de secretos\n- y 71 cambio(s) mas"
 }
