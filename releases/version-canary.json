@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.41",
-    "releaseDate":  "2026-08-31",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.41/PalmaCoco-1.0.41.zip",
-    "sha256":  "acd9ca086acfeeff40679911c3c556bb55e9591e1d6acdbc205d81c2687b3b40",
-    "notes":  "- La numeracion de facturas ya no depende solo de este PC.\n- Cada terminal tiene su propia serie: dos cajas no pueden repetir numero."
+  "version": "1.0.42",
+  "releaseDate": "2026-09-04",
+  "url": "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.42/PalmaCoco-1.0.42.zip",
+  "sha256": "94f24d79d21666123048703a6211c719425369a1fab378e772ca345ee68e76fe",
+  "notes": "- El TPV se llama ahora GEST7 POS.\n- Conserva tus datos, tus PIN y la configuracion de la tienda."
 }
