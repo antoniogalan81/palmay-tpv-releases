@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.43",
+    "version":  "1.0.44",
     "releaseDate":  "2026-09-04",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.43/PalmaCoco-1.0.43.zip",
-    "sha256":  "906e2652c21968ae132d15747d612688fd9cdefdd2b2e232b033bcf22821e003",
-    "notes":  "- 0e6edb0 fix(caja): el datafono en blanco deja de ser 0 EUR y el arqueo recupera su cierre (1.0.43)\n- c6dde92 docs(tpv): BORRAR actualizada a 1.0.42 y verificada; FLOW y SVQ intactas\n- a2a4876 docs(tpv): el piloto de la 1.0.42, y lo unico que falta para instalarlo\n- y 111 cambio(s) mas"
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.44/PalmaCoco-1.0.44.zip",
+    "sha256":  "fe0ecdc035b29a89aaa5f446777dbf731058b9938d7f793552a0b501a6e406b3",
+    "notes":  "- El efectivo y el datafono ya no se suman: el cajon dice Cuadra/Sobra/Falta y el datafono, Cuadra/Revisar.\n- Una venta anulada desde el Admin deja de contar tambien en la caja.\n- Avisa si el importe del datafono es el del turno anterior o el del dia."
 }
