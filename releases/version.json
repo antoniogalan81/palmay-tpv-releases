@@ -1,7 +1,7 @@
 {
-  "version": "1.0.42",
-  "releaseDate": "2026-09-04",
-  "url": "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.42/PalmaCoco-1.0.42.zip",
-  "sha256": "94f24d79d21666123048703a6211c719425369a1fab378e772ca345ee68e76fe",
-  "notes": "- El TPV se llama ahora GEST7 POS.\n- Conserva tus datos, tus PIN y la configuracion de la tienda."
+    "version":  "1.0.43",
+    "releaseDate":  "2026-09-04",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.43/PalmaCoco-1.0.43.zip",
+    "sha256":  "906e2652c21968ae132d15747d612688fd9cdefdd2b2e232b033bcf22821e003",
+    "notes":  "- 0e6edb0 fix(caja): el datafono en blanco deja de ser 0 EUR y el arqueo recupera su cierre (1.0.43)\n- c6dde92 docs(tpv): BORRAR actualizada a 1.0.42 y verificada; FLOW y SVQ intactas\n- a2a4876 docs(tpv): el piloto de la 1.0.42, y lo unico que falta para instalarlo\n- y 111 cambio(s) mas"
 }
