@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.46",
-    "releaseDate":  "2026-09-05",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.46/PalmaCoco-1.0.46.zip",
-    "sha256":  "53d18d70fc7f1dac7f81f75e994044bb31141896e32b642ada631a3739611a32",
-    "notes":  "- 9d04262 chore(tpv): 1.0.46 â€” el datafono se lee como el acumulado del dia\n- 57ee910 fix(caja): el datafono es el ACUMULADO DEL DIA, no el importe del turno\n- 23824b0 chore(deploy): la puerta de despliegue exige la frontera de turno\n- y 134 cambio(s) mas"
+    "version":  "1.0.44",
+    "releaseDate":  "2026-09-04",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.44/PalmaCoco-1.0.44.zip",
+    "sha256":  "fe0ecdc035b29a89aaa5f446777dbf731058b9938d7f793552a0b501a6e406b3",
+    "notes":  "- El efectivo y el datafono ya no se suman: el cajon dice Cuadra/Sobra/Falta y el datafono, Cuadra/Revisar.\n- Una venta anulada desde el Admin deja de contar tambien en la caja.\n- Avisa si el importe del datafono es el del turno anterior o el del dia."
 }
