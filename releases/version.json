@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.44",
-    "releaseDate":  "2026-09-04",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.44/PalmaCoco-1.0.44.zip",
-    "sha256":  "fe0ecdc035b29a89aaa5f446777dbf731058b9938d7f793552a0b501a6e406b3",
-    "notes":  "- El efectivo y el datafono ya no se suman: el cajon dice Cuadra/Sobra/Falta y el datafono, Cuadra/Revisar.\n- Una venta anulada desde el Admin deja de contar tambien en la caja.\n- Avisa si el importe del datafono es el del turno anterior o el del dia."
+    "version":  "1.0.47",
+    "releaseDate":  "2026-09-05",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.47/PalmaCoco-1.0.47.zip",
+    "sha256":  "23ca3322a0ccd33a6486d731db193d3e7154583b11580284c638e6d83a62c4a9",
+    "notes":  "- ecce7b7 chore(tpv): 1.0.47 â€” el datafono es un contador\n- d2bb1e1 chore(caja): fuera el codigo muerto que dejo el modelo anterior\n- 06c2cc6 refactor(caja): el datafono es un contador; solo cuenta su movimiento\n- y 141 cambio(s) mas"
 }
