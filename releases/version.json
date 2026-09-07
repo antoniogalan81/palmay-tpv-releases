@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.48",
-    "releaseDate":  "2026-09-06",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.48/PalmaCoco-1.0.48.zip",
-    "sha256":  "7122159bbcfdc368917c5fc2cb68b04caf0dc341609c8abf4deea8683d349ffe",
-    "notes":  "1.0.48 - El periodo de caja es identico en el TPV y en el Admin: lo registrado en el instante exacto de un cierre ya no cuenta dos veces. Y el arqueo no vuelve a perder su vinculo con el cierre."
+    "version":  "1.0.49",
+    "releaseDate":  "2026-09-07",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.49/PalmaCoco-1.0.49.zip",
+    "sha256":  "c0d9eed09297ee3da913be304239c6326cfeb8d37391b348cdf15e07c881cca1",
+    "notes":  "1.0.49 - El cierre pide siempre la lectura del datafono, y si algo no cuadra propone que revisar antes de cerrar. El recuento ocupa bastante menos y hay mucho menos que bajar."
 }
