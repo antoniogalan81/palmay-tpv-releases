@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.50",
-    "releaseDate":  "2026-09-08",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.50/PalmaCoco-1.0.50.zip",
-    "sha256":  "76a0c2788b6aca0cc38be06c8303ea0fbf65fe02386baadbd0c5994990f4b8f6",
-    "notes":  "1.0.50 - Al pulsar Comprobar actualizaciones, el TPV pregunta al servidor en ese momento: si no contesta lo dice, y los botones Horario y Perfil recogen la direccion nueva sin reiniciar la caja."
+    "version":  "1.0.51",
+    "releaseDate":  "2026-09-09",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.51/PalmaCoco-1.0.51.zip",
+    "sha256":  "9dff88db554f73dd37bb43bbcf183e5594802a1315a4a5d164fe43f7cbc43570",
+    "notes":  "- 3e62493 chore(tpv): version 1.0.51\n- 59051e3 docs: BORRAR es una tienda mas, no un paso previo a FLOW y SVQ\n- e12d2a5 fix(tpv): el TPV tambien dice por que un cambio se queda sin efecto\n- y 178 cambio(s) mas"
 }
