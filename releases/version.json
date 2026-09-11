@@ -1,7 +1,7 @@
 {
-    "version": "1.0.51",
-    "releaseDate": "2026-09-09",
-    "url": "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.51/PalmaCoco-1.0.51.zip",
-    "sha256": "9dff88db554f73dd37bb43bbcf183e5594802a1315a4a5d164fe43f7cbc43570",
-    "notes": "1.0.51 - Un cambio de turno ya resuelto deja de figurar como pendiente en la caja: si se cancelo, lo rechazo una companera o se quedo sin efecto, el TPV se entera. Y al aprobar uno que ya no se puede aplicar, dice por que en vez de dar un error."
+    "version":  "1.0.52",
+    "releaseDate":  "2026-09-11",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.52/PalmaCoco-1.0.52.zip",
+    "sha256":  "3ab7d002eff55de58ad5d82d08538ebeb8574fbeeda79280e17ea1d493eb9e45",
+    "notes":  "1.0.52 - La contrasena de la tienda se guarda cifrada en este equipo, y los datos de conexion de Ajustes solo se ven con el PIN de una encargada o administradora."
 }
