@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.53",
-    "releaseDate":  "2026-09-14",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.53/PalmaCoco-1.0.53.zip",
-    "sha256":  "8b23ebaca7dc76d1490f4232bb7af21525b616d8576e9b9a94601e847ed64c2d",
-    "notes":  "El Resumen enseÃ±a los ingresos y las retiradas de caja del periodo, sumados"
+    "version": "1.0.53",
+    "releaseDate": "2026-09-14",
+    "url": "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.53/PalmaCoco-1.0.53.zip",
+    "sha256": "8b23ebaca7dc76d1490f4232bb7af21525b616d8576e9b9a94601e847ed64c2d",
+    "notes": "1.0.53 - El Resumen muestra los ingresos y las retiradas de caja del periodo, ya sumados."
 }
