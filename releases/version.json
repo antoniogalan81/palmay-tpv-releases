@@ -1,7 +1,7 @@
 {
-    "version": "1.0.53",
-    "releaseDate": "2026-09-14",
-    "url": "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.53/PalmaCoco-1.0.53.zip",
-    "sha256": "8b23ebaca7dc76d1490f4232bb7af21525b616d8576e9b9a94601e847ed64c2d",
-    "notes": "1.0.53 - El Resumen muestra los ingresos y las retiradas de caja del periodo, ya sumados."
+    "version":  "1.0.54",
+    "releaseDate":  "2026-09-24",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.54/PalmaCoco-1.0.54.zip",
+    "sha256":  "55125f04df3d2eec1e67b6b343667f21c252a261db9a9a229481cc9e9667dad9",
+    "notes":  "1.0.54 - La caja se registra en GEST7 en cuanto se guarda su configuracion, sin reiniciarla."
 }
