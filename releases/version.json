@@ -1,7 +1,11 @@
 {
-    "version":  "1.0.55",
+    "version":  "1.0.56",
     "releaseDate":  "2026-09-29",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.55/Gest7-1.0.55.zip",
-    "sha256":  "4563520e74f36bee9e5777b7d8559c8d63ecda4d4d9539762a1b308de6fb8c37",
-    "notes":  "1.0.55 - GEST7 POS aparece en Aplicaciones instaladas de Windows y se desinstala desde alli."
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.56/Gest7-1.0.56-actualizacion.zip",
+    "sha256":  "f7f78f29b48e0f39250c9dbe17c78cf9f0ed84f7007db73e2484ee774a11d5a0",
+    "notes":  "Gest7.exe y conectar la caja con la cuenta GEST7",
+    "descarga":  {
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.56/Gest7-1.0.56.zip",
+                     "sha256":  "69f7f7e05d9af0b93593b644f8bcb2bc2071ad68263b9c5ca5658b5aa6eee2f4"
+                 }
 }
