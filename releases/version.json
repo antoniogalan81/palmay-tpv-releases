@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.54",
-    "releaseDate":  "2026-09-24",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.54/Gest7-1.0.54.zip",
-    "sha256":  "55125f04df3d2eec1e67b6b343667f21c252a261db9a9a229481cc9e9667dad9",
-    "notes":  "1.0.54 - La caja se registra en GEST7 en cuanto se guarda su configuracion, sin reiniciarla."
+    "version":  "1.0.55",
+    "releaseDate":  "2026-09-29",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.55/Gest7-1.0.55.zip",
+    "sha256":  "4563520e74f36bee9e5777b7d8559c8d63ecda4d4d9539762a1b308de6fb8c37",
+    "notes":  "1.0.55 - GEST7 POS aparece en Aplicaciones instaladas de Windows y se desinstala desde alli."
 }
