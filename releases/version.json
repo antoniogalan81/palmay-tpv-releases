@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.58",
+    "version":  "1.0.59",
     "releaseDate":  "2026-09-30",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.58/Gest7-1.0.58-actualizacion.zip",
-    "sha256":  "cc7bc2f1489d50661cf2b1a4c8c70fb089916cf2ecf1f503aa3be7cfa7a514f3",
-    "notes":  "Recuperacion de caja, una sola instancia, elegir empresa en el alta y actualizador tardio seguro",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.59/Gest7-1.0.59-actualizacion.zip",
+    "sha256":  "ed0ba3a38d7ee47dc6999ce5fe88e4729d36093497c9de4fb666af4ea19ad9d6",
+    "notes":  "Precios o referencias al conectar la caja, plantilla recomendada, precios por intervalos y anadir precio desde la caja",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.58/Gest7-1.0.58.zip",
-                     "sha256":  "4eacd5f97da6d1f2e5a1603390d47631e743587cb533de3ad349dcbdc2ddda4a"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.59/Gest7-1.0.59.zip",
+                     "sha256":  "a74a356e0c5a36959e76651029a1869491ac617af14d25ad54c98ee34cd46394"
                  }
 }
