@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.59",
-    "releaseDate":  "2026-09-30",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.59/Gest7-1.0.59-actualizacion.zip",
-    "sha256":  "ed0ba3a38d7ee47dc6999ce5fe88e4729d36093497c9de4fb666af4ea19ad9d6",
-    "notes":  "Precios o referencias al conectar la caja, plantilla recomendada, precios por intervalos y anadir precio desde la caja",
+    "version":  "1.0.60",
+    "releaseDate":  "2026-10-05",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.60/Gest7-1.0.60-actualizacion.zip",
+    "sha256":  "e2a6e87828ffd928118d5659be6065ade01811d472935bd20fe1d28ebf57dceb",
+    "notes":  "Carrito: una linea solo agrupa unidades con el mismo precio y el mismo descuento. Ahora se puede descontar solo una parte de las unidades de una linea (Unidades a descontar).",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.59/Gest7-1.0.59.zip",
-                     "sha256":  "a74a356e0c5a36959e76651029a1869491ac617af14d25ad54c98ee34cd46394"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.60/Gest7-1.0.60.zip",
+                     "sha256":  "59f17a52cbd09b59c2d6dc4596e1cc744a63f1dd57fe4dea0463c8a346118b59"
                  }
 }
