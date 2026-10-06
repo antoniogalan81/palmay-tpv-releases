@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.63",
+    "version":  "1.0.64",
     "releaseDate":  "2026-10-06",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.63/Gest7-1.0.63-actualizacion.zip",
-    "sha256":  "fe75b31c0f357976aebc4e8a84e7df4a10304eaf807cee12a3c2196f73a1871c",
-    "notes":  "Jornada: cerrar sesion, cerrar o actualizar el programa ya no terminan la jornada, vuelvas cuando vuelvas ese dia. Solo Cierre de turno o del dia la terminan; para un turno partido usa Cierre de turno.",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.64/Gest7-1.0.64-actualizacion.zip",
+    "sha256":  "18c38f7813766138f89a3c3fd73071f8b1d0a70141169b0616ce8855ee69467d",
+    "notes":  "Refuerzo: cerrar sesion o cambiar de empleada ya no lo termina; lo terminan Finalizar refuerzo, Cierre de turno y Cierre del dia. Cada Cierre de turno corta el tramo: la pausa hasta la siguiente entrada no cuenta como trabajada.",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.63/Gest7-1.0.63.zip",
-                     "sha256":  "f67394cebf2a2ce5493273ccf9664c1c5494f4db36dfef179835fece64ca971b"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.64/Gest7-1.0.64.zip",
+                     "sha256":  "6c4ca75dd386140b1f7d3c88bcbdb928eb468e8d5f212f74ed0a328e55a27ec6"
                  }
 }
