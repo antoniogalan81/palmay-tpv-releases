@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.61",
-    "releaseDate":  "2026-10-05",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.61/Gest7-1.0.61-actualizacion.zip",
-    "sha256":  "e0e54e2699b88556b193a762a01ed6cd9813b4e0dd474ed43f0c2e773eeac961",
-    "notes":  "Descuentos: cada unidad del carrito sale con su propia casilla, aunque esten agrupadas (99 x 2 son dos filas). Se elige una a una a cual aplicar el descuento.",
+    "version":  "1.0.62",
+    "releaseDate":  "2026-10-06",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.62/Gest7-1.0.62-actualizacion.zip",
+    "sha256":  "d84e78047594a6f16e7cdae753c2b6388e38dbf7a6c0e5e74b40e5cb34d7d227",
+    "notes":  "Jornada: cerrar, reiniciar o actualizar el programa ya no termina la jornada; al volver a entrar con el PIN se continua la misma. Solo Cierre de turno o del dia la terminan. Corregir la hora de entrada no avisa por segundos ni puede pisar otro tramo.",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.61/Gest7-1.0.61.zip",
-                     "sha256":  "376f5764219ad0b66d2e077c83683f6e264346ce3c739a99d931cfa3fd864ae4"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.62/Gest7-1.0.62.zip",
+                     "sha256":  "0df69074e8df02857729db0ea92348c713efab04632daffd6c18b0e2ec449751"
                  }
 }
