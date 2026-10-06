@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.62",
+    "version":  "1.0.63",
     "releaseDate":  "2026-10-06",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.62/Gest7-1.0.62-actualizacion.zip",
-    "sha256":  "d84e78047594a6f16e7cdae753c2b6388e38dbf7a6c0e5e74b40e5cb34d7d227",
-    "notes":  "Jornada: cerrar, reiniciar o actualizar el programa ya no termina la jornada; al volver a entrar con el PIN se continua la misma. Solo Cierre de turno o del dia la terminan. Corregir la hora de entrada no avisa por segundos ni puede pisar otro tramo.",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.63/Gest7-1.0.63-actualizacion.zip",
+    "sha256":  "fe75b31c0f357976aebc4e8a84e7df4a10304eaf807cee12a3c2196f73a1871c",
+    "notes":  "Jornada: cerrar sesion, cerrar o actualizar el programa ya no terminan la jornada, vuelvas cuando vuelvas ese dia. Solo Cierre de turno o del dia la terminan; para un turno partido usa Cierre de turno.",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.62/Gest7-1.0.62.zip",
-                     "sha256":  "0df69074e8df02857729db0ea92348c713efab04632daffd6c18b0e2ec449751"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.63/Gest7-1.0.63.zip",
+                     "sha256":  "f67394cebf2a2ce5493273ccf9664c1c5494f4db36dfef179835fece64ca971b"
                  }
 }
