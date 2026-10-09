@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.66",
+    "version":  "1.0.67",
     "releaseDate":  "2026-10-09",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.66/Gest7-1.0.66-actualizacion.zip",
-    "sha256":  "ffbeec355f7a0235f93c157c4d755414547e849eb064b22e384555cf23191e3a",
-    "notes":  "El ticket y el vale se encabezan con la tienda configurada; sin nombre, TPV. Sin cambios en ventas, caja ni datos locales.",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.67/Gest7-1.0.67-actualizacion.zip",
+    "sha256":  "cb37de97431772a2e765f5719d92c6a291fc02f6fa107b4d8cf463e4144e77ea",
+    "notes":  "1.0.67 sube el tipo de cada cierre y avisa si la hora del equipo no es la del comercio",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.66/Gest7-1.0.66.zip",
-                     "sha256":  "b082f742be3fce86965939635fdf40ae10e4c8eb16ece893b12f6190c8941bb2"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.67/Gest7-1.0.67.zip",
+                     "sha256":  "f849c4c4638fd915ce12feeac190b07e8aa8ff423bc844f14735d73373f469d9"
                  }
 }
