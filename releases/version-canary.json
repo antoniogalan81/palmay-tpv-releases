@@ -1,7 +1,11 @@
 {
-    "version":  "1.0.55",
-    "releaseDate":  "2026-09-29",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.55/Gest7-1.0.55.zip",
-    "sha256":  "4563520e74f36bee9e5777b7d8559c8d63ecda4d4d9539762a1b308de6fb8c37",
-    "notes":  "1.0.55 - GEST7 POS aparece en Aplicaciones instaladas de Windows y se desinstala desde alli."
+    "version":  "1.0.69",
+    "releaseDate":  "2026-10-28",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.69/Gest7-1.0.69-actualizacion.zip",
+    "sha256":  "dbdbe791e915b72dbd5467ffc4106f96ca3bc1ebf23c57e939ae7c53b492d961",
+    "notes":  "Cambios sin vale automatico, anular con vale devuelve el saldo, Corregir o anular venta, mesas sin doble cobro y limite de intentos de PIN",
+    "descarga":  {
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.69/Gest7-1.0.69.zip",
+                     "sha256":  "6b87936257e256336615a0307df3e6e9e604a3b7d0a2892121033767b414b862"
+                 }
 }
