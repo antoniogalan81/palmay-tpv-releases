@@ -1,11 +1,12 @@
 {
-    "version":  "1.0.68",
-    "releaseDate":  "2026-10-26",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.68/Gest7-1.0.68-actualizacion.zip",
-    "sha256":  "27d028d9f2c0f97f240c04d61504b212edbedc5274998c30014d6e836ddbfa7c",
-    "notes":  "Los cambios de metodo de pago hechos en el Admin (por ejemplo Tarjeta a Vale) llegan a la caja: lista de ventas y cierre al dia. Un reintento de subida ya no duplica pagos.",
+    "version":  "1.0.70",
+    "releaseDate":  "2026-10-28",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.70/Gest7-1.0.70-actualizacion.zip",
+    "sha256":  "bbd5f3e3c6199448aa7cc765588ddc9d5a7afbb4541aaca443a910ae3507ac42",
+    "notes":  "Cola de ventas que nunca pierde ventas, vales con autorizacion, correccion de forma de pago y actualizaciones firmadas.",
+    "firma":  "g/01okmqcf8i2nxQlEt1LEk155VUdg6owHkLoLaInSLRCqbXnfjMtUXY8oRLR/g6Zt91v54bhSXu0vCakgZ1Bw==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.68/Gest7-1.0.68.zip",
-                     "sha256":  "43b0a8af599899518f75c6effd11db93d95ebf2af4fe8e58e8dbe957d01e4b94"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.70/Gest7-1.0.70.zip",
+                     "sha256":  "fac88ec48d441ec1d96dec15d2b48d77162c6904155d1c2c81af898486224880"
                  }
 }
