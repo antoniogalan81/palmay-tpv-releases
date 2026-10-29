@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.70",
-    "releaseDate":  "2026-10-28",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.70/Gest7-1.0.70-actualizacion.zip",
-    "sha256":  "bbd5f3e3c6199448aa7cc765588ddc9d5a7afbb4541aaca443a910ae3507ac42",
-    "notes":  "Cola de ventas que nunca pierde ventas, vales con autorizacion, correccion de forma de pago y actualizaciones firmadas.",
-    "firma":  "g/01okmqcf8i2nxQlEt1LEk155VUdg6owHkLoLaInSLRCqbXnfjMtUXY8oRLR/g6Zt91v54bhSXu0vCakgZ1Bw==",
+    "version":  "1.0.71",
+    "releaseDate":  "2026-10-29",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.71/Gest7-1.0.71-actualizacion.zip",
+    "sha256":  "9105980e8150bfdcd423da5008208977aa740eea36f26b493f93172108ebd66b",
+    "notes":  "1.0.71: las actualizaciones se descargan solas y avisan con la caja libre. Instalar sigue siendo pulsar Actualizar ahora.",
+    "firma":  "9iTwIrOC78gTbNkiauFrIpyzZTgMo9zFFjKRO+FzvAYBd91CDc2hacDmDGfj3DtQLiC6W7ALZqU4j9hKE8vsAg==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.70/Gest7-1.0.70.zip",
-                     "sha256":  "fac88ec48d441ec1d96dec15d2b48d77162c6904155d1c2c81af898486224880"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.71/Gest7-1.0.71.zip",
+                     "sha256":  "d2f1a373585e77dace473d5c3d1f1e047593c5d1584899a18d66895d7aa4bc1a"
                  }
 }
