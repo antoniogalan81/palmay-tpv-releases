@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.72",
-    "releaseDate":  "2026-11-04",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.72/Gest7-1.0.72-actualizacion.zip",
-    "sha256":  "53697791a9b68c6576569dae1bc0b2fb6974f36b7c970d8dfdc7716a53fb61f1",
-    "notes":  "- b897ef6 fix(release): recortar las notas deja sitio al â”¬Â½...â”¬â•— (303 \u003e 300 bloqueaba la 1.0.72)\n- 1e811b5 fix(deploy): las migraciones reconciliadas no cuentan como pendientes; una opciâ”œâ”‚n desconocida no despliega\n- 68877a2 chore(gate): puertos del gate en orden y --preparar sin falso positivo;...",
-    "firma":  "qV2tmElFuW/QkuU6M+Sc5vEOKMp8XTwSOXbWNzyTrERSvpNKRLpfAj/lU4PIzS/bLFjEbzf546yTsS/fhwIsAg==",
-    "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.72/Gest7-1.0.72.zip",
-                     "sha256":  "2fb468c1bc5e5d03e158d00400ab619c90d3fa543aa7f5b5560de2261c1f3330"
-                 }
+  "version": "1.0.72",
+  "releaseDate": "2026-11-04",
+  "url": "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.72/Gest7-1.0.72-actualizacion.zip",
+  "sha256": "53697791a9b68c6576569dae1bc0b2fb6974f36b7c970d8dfdc7716a53fb61f1",
+  "notes": "IVA por linea en el catalogo, informe X y ticket regalo, clientes y ventas a credito, aparcar ventas, existencias y pedidos a proveedor, promociones y rebajas, y permisos de caja.",
+  "firma": "qV2tmElFuW/QkuU6M+Sc5vEOKMp8XTwSOXbWNzyTrERSvpNKRLpfAj/lU4PIzS/bLFjEbzf546yTsS/fhwIsAg==",
+  "descarga": {
+    "url": "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.72/Gest7-1.0.72.zip",
+    "sha256": "2fb468c1bc5e5d03e158d00400ab619c90d3fa543aa7f5b5560de2261c1f3330"
+  }
 }
