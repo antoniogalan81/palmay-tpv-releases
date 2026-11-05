@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.75",
+    "version":  "1.0.76",
     "releaseDate":  "2026-11-05",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.75/Gest7-1.0.75-actualizacion.zip",
-    "sha256":  "5fb77e6cae8bf619717dfb40c6aff3afda506556a0d51672e1c3016333fb6149",
-    "notes":  "GEST7 1.0.75: se puede devolver o cambiar una venta hecha en otra caja u otra tienda de la empresa, buscandola por su numero con conexion. Nunca mas de lo vendido. Sin cambios para la venta por importe.",
-    "firma":  "96rDrSqWjkqfkiewSeAxx1AKKCHUu5Gkql6S7LGUkVVMhD1qbvimwzNcN1INMAMdKZ5fBKtVletBG1IhwfvFDg==",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.76/Gest7-1.0.76-actualizacion.zip",
+    "sha256":  "daf62b014dae7f7cb2b9efa2a4114507c7d52cd4bf57c18f207660af0e90fa63",
+    "notes":  "GEST7 1.0.76: la caja se organiza en Vender, Mercancia y Mi jornada. Vender no cambia. En Mercancia: buscar existencias con el lector, pedir mercancia e inventario desde la caja (guardado aunque se corte internet). Sin cambios para la venta por importe.",
+    "firma":  "AciJoi6ppUMsps6M3BPNviRPRH5RuneE4OdXmXjONlsZu/hv4lUkympiWjR9s6kEPimnFZCDzM1xGNfPJ8CdBA==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.75/Gest7-1.0.75.zip",
-                     "sha256":  "b6bb2e87a13b8b60a19685419412c58afff73b91fd62af0d7e004657f1e812a2"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.76/Gest7-1.0.76.zip",
+                     "sha256":  "9ff71893352133b6212445cfe23a858181eead852ccd47a6484a07bc54e2f155"
                  }
 }
