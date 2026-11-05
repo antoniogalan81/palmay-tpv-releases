@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.74",
+    "version":  "1.0.75",
     "releaseDate":  "2026-11-05",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.74/Gest7-1.0.74-actualizacion.zip",
-    "sha256":  "1e5ce9e84799ee2d45476e43b288dae404e26b57100527a7c8432d8aad83b8e2",
-    "notes":  "GEST7 1.0.74: en modo referencias, la existencia que muestra la caja ya no se infla durante el minuto siguiente a subir una venta. Sin cambios para la venta por importe.",
-    "firma":  "6fINXtbN+e6aJBRpLcV++rBKg3SwvQs/uoJ6FjVe/mRxX5UTdUj0bSRFbKsEV8ejCXIxh06ynDB2kJ4L+ttRBQ==",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.75/Gest7-1.0.75-actualizacion.zip",
+    "sha256":  "5fb77e6cae8bf619717dfb40c6aff3afda506556a0d51672e1c3016333fb6149",
+    "notes":  "GEST7 1.0.75: se puede devolver o cambiar una venta hecha en otra caja u otra tienda de la empresa, buscandola por su numero con conexion. Nunca mas de lo vendido. Sin cambios para la venta por importe.",
+    "firma":  "96rDrSqWjkqfkiewSeAxx1AKKCHUu5Gkql6S7LGUkVVMhD1qbvimwzNcN1INMAMdKZ5fBKtVletBG1IhwfvFDg==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.74/Gest7-1.0.74.zip",
-                     "sha256":  "04032de239275b3a174d87bce8929de787357856ac05c61cef3e22c0367edcfb"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.75/Gest7-1.0.75.zip",
+                     "sha256":  "b6bb2e87a13b8b60a19685419412c58afff73b91fd62af0d7e004657f1e812a2"
                  }
 }
