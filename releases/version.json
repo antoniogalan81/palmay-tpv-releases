@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.73",
+    "version":  "1.0.74",
     "releaseDate":  "2026-11-05",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.73/Gest7-1.0.73-actualizacion.zip",
-    "sha256":  "eda2c296b2461ec51fbcad8fcf07fc1c258e93eabef25698c9e3e2cab9d24771",
-    "notes":  "Cupones con codigo, visor para el cliente en un segundo monitor, rebajas por dia y franja horaria, segunda unidad a precio reducido e imagenes de articulo. En hosteleria: alergenos, reservas en la sala y aviso de mesas abiertas al cerrar.",
-    "firma":  "9XX4DrvGvD/BnpNLunwng3C6rsvf7O0bJvsq47j1F2BQK/tr4kepgEYcb9oF06So+hmloTk1tBqzJPhsHo8DDQ==",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.74/Gest7-1.0.74-actualizacion.zip",
+    "sha256":  "1e5ce9e84799ee2d45476e43b288dae404e26b57100527a7c8432d8aad83b8e2",
+    "notes":  "GEST7 1.0.74: en modo referencias, la existencia que muestra la caja ya no se infla durante el minuto siguiente a subir una venta. Sin cambios para la venta por importe.",
+    "firma":  "6fINXtbN+e6aJBRpLcV++rBKg3SwvQs/uoJ6FjVe/mRxX5UTdUj0bSRFbKsEV8ejCXIxh06ynDB2kJ4L+ttRBQ==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.73/Gest7-1.0.73.zip",
-                     "sha256":  "271c07788b3da40b351e5dcb7a7441cd1a939fc209616a44ae01b012be300af8"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.74/Gest7-1.0.74.zip",
+                     "sha256":  "04032de239275b3a174d87bce8929de787357856ac05c61cef3e22c0367edcfb"
                  }
 }
