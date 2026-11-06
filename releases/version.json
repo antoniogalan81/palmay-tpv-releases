@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.77",
+    "version":  "1.0.78",
     "releaseDate":  "2026-11-06",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.77/Gest7-1.0.77-actualizacion.zip",
-    "sha256":  "88de607e257e676b420de7f314100b0c906b96d862411defc5f32d512d6e8d81",
-    "notes":  "TPV modular: traspasos entre tiendas y recepciones de proveedor desde la caja (Mercancia), con lector y sin conexion; funciones de la caja por tienda.",
-    "firma":  "emzFRdr/lFGs72hIkpxM6KDWsaCbFJMdhcypIyYSs/ZmFhwrwVXc1880wLSGFYtetToEFvoLmNf/VlGt2PerCA==",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.78/Gest7-1.0.78-actualizacion.zip",
+    "sha256":  "086052773bc5f41df6da1305b0f3fc611a2ee04a2293c81ec4ac6c16d5959700",
+    "notes":  "Mercancia \u003e Existencias: catalogo sin buscar, tallas y colores por tienda y bandeja para pedir o enviar a otra tienda. Traspasos: lo pedido no se pierde y los reintentos no quedan en revisar.",
+    "firma":  "QfPDTsBf2MjQEfEf/+9+ttXllAKtPTdPsG13K192gLSAfoGMZn9QZBrHr6z4zj3DEd7JWAaF1zE5JRbgdbhJAQ==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.77/Gest7-1.0.77.zip",
-                     "sha256":  "c0d55bd9bea9f9c009d072acb53b59c9ac9d4a5166a910a183b8dd855cfe89a0"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.78/Gest7-1.0.78.zip",
+                     "sha256":  "2c57a48219e7cdee54977f7dc5e711d110784fec782badb0d46afa956b1e3786"
                  }
 }
