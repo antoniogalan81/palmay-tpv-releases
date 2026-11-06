@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.76",
-    "releaseDate":  "2026-11-05",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.76/Gest7-1.0.76-actualizacion.zip",
-    "sha256":  "daf62b014dae7f7cb2b9efa2a4114507c7d52cd4bf57c18f207660af0e90fa63",
-    "notes":  "GEST7 1.0.76: la caja se organiza en Vender, Mercancia y Mi jornada. Vender no cambia. En Mercancia: buscar existencias con el lector, pedir mercancia e inventario desde la caja (guardado aunque se corte internet). Sin cambios para la venta por importe.",
-    "firma":  "AciJoi6ppUMsps6M3BPNviRPRH5RuneE4OdXmXjONlsZu/hv4lUkympiWjR9s6kEPimnFZCDzM1xGNfPJ8CdBA==",
+    "version":  "1.0.77",
+    "releaseDate":  "2026-11-06",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.77/Gest7-1.0.77-actualizacion.zip",
+    "sha256":  "88de607e257e676b420de7f314100b0c906b96d862411defc5f32d512d6e8d81",
+    "notes":  "TPV modular: traspasos entre tiendas y recepciones de proveedor desde la caja (Mercancia), con lector y sin conexion; funciones de la caja por tienda.",
+    "firma":  "emzFRdr/lFGs72hIkpxM6KDWsaCbFJMdhcypIyYSs/ZmFhwrwVXc1880wLSGFYtetToEFvoLmNf/VlGt2PerCA==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.76/Gest7-1.0.76.zip",
-                     "sha256":  "9ff71893352133b6212445cfe23a858181eead852ccd47a6484a07bc54e2f155"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.77/Gest7-1.0.77.zip",
+                     "sha256":  "c0d55bd9bea9f9c009d072acb53b59c9ac9d4a5166a910a183b8dd855cfe89a0"
                  }
 }
