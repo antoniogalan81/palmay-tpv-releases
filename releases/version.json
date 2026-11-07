@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.78",
-    "releaseDate":  "2026-11-06",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.78/Gest7-1.0.78-actualizacion.zip",
-    "sha256":  "086052773bc5f41df6da1305b0f3fc611a2ee04a2293c81ec4ac6c16d5959700",
-    "notes":  "Mercancia \u003e Existencias: catalogo sin buscar, tallas y colores por tienda y bandeja para pedir o enviar a otra tienda. Traspasos: lo pedido no se pierde y los reintentos no quedan en revisar.",
-    "firma":  "QfPDTsBf2MjQEfEf/+9+ttXllAKtPTdPsG13K192gLSAfoGMZn9QZBrHr6z4zj3DEd7JWAaF1zE5JRbgdbhJAQ==",
+    "version":  "1.0.79",
+    "releaseDate":  "2026-11-07",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.79/Gest7-1.0.79-actualizacion.zip",
+    "sha256":  "3f03cee303238d3f42689a9065b57df7b6d67a289d927dbce5cdf4c5e40230a0",
+    "notes":  "Vender: buscar por familia, proveedor, marca, talla y color; ventas en espera entre cajas; alta rapida de articulos con PIN de encargada; la talla se anade con un toque",
+    "firma":  "AjuzjsZLe0HOeGOZKyURt1pX9WzicWUhg3E7paVB210buJ9b9l8WAHCaYk1cPVtaVY/RbMaoTXZbl9eG2gCpAw==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.78/Gest7-1.0.78.zip",
-                     "sha256":  "2c57a48219e7cdee54977f7dc5e711d110784fec782badb0d46afa956b1e3786"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.79/Gest7-1.0.79.zip",
+                     "sha256":  "e898fb5904ca0101f8ec3ed3bc2ed607d18de2e6eeb00b6ff317e30391ecd843"
                  }
 }
