@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.79",
+    "version":  "1.0.80",
     "releaseDate":  "2026-11-07",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.79/Gest7-1.0.79-actualizacion.zip",
-    "sha256":  "3f03cee303238d3f42689a9065b57df7b6d67a289d927dbce5cdf4c5e40230a0",
-    "notes":  "Vender: buscar por familia, proveedor, marca, talla y color; ventas en espera entre cajas; alta rapida de articulos con PIN de encargada; la talla se anade con un toque",
-    "firma":  "AjuzjsZLe0HOeGOZKyURt1pX9WzicWUhg3E7paVB210buJ9b9l8WAHCaYk1cPVtaVY/RbMaoTXZbl9eG2gCpAw==",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.80/Gest7-1.0.80-actualizacion.zip",
+    "sha256":  "cef4d136792cb57862298bdbbe769274cb79ebaec828a43fa78bcaad519d9e42",
+    "notes":  "Vender: variantes en la lista con el color de la prenda y tarjetas de talla en color; corregir el cobro y anular desde Ventas; carrito mas compacto; Perfil reune jornada, horario y portal; alta rapida con el catalogo vacio",
+    "firma":  "3ONMJgZ9lZ2LwMq2RwICGfF/1ES1csPPJsbZ6bQUA5wVFBFEcNVx4PBdzlQ9AlAY7cNrv1NltoCpRnz9VySUAQ==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.79/Gest7-1.0.79.zip",
-                     "sha256":  "e898fb5904ca0101f8ec3ed3bc2ed607d18de2e6eeb00b6ff317e30391ecd843"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.80/Gest7-1.0.80.zip",
+                     "sha256":  "4e090ff46a3eea21604a13c95e6e35785d6cbe7ea62b0e4e1a73a34e6b1e2c04"
                  }
 }
