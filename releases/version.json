@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.80",
+    "version":  "1.0.81",
     "releaseDate":  "2026-11-07",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.80/Gest7-1.0.80-actualizacion.zip",
-    "sha256":  "cef4d136792cb57862298bdbbe769274cb79ebaec828a43fa78bcaad519d9e42",
-    "notes":  "Vender: variantes en la lista con el color de la prenda y tarjetas de talla en color; corregir el cobro y anular desde Ventas; carrito mas compacto; Perfil reune jornada, horario y portal; alta rapida con el catalogo vacio",
-    "firma":  "3ONMJgZ9lZ2LwMq2RwICGfF/1ES1csPPJsbZ6bQUA5wVFBFEcNVx4PBdzlQ9AlAY7cNrv1NltoCpRnz9VySUAQ==",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.81/Gest7-1.0.81-actualizacion.zip",
+    "sha256":  "f125e8dbf7b3bc9c2e0083d8c9f7dc842c4cfaf175dde91be3474f35235d533b",
+    "notes":  "Corregir forma de pago en un solo editor (efectivo, tarjeta, vale, mixto); los indicadores de variantes anaden su prenda; Perfil abre el portal de personal",
+    "firma":  "uDvQtYqExTXCoYR4netuXWbWWURdEFVCCtxLIHcn5SF61/udEhpnmFfzn/yCylPFXgNlVwef2E+sbEM/YbnpAQ==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.80/Gest7-1.0.80.zip",
-                     "sha256":  "4e090ff46a3eea21604a13c95e6e35785d6cbe7ea62b0e4e1a73a34e6b1e2c04"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.81/Gest7-1.0.81.zip",
+                     "sha256":  "249da3f96bb02d7849790040e8e14ff262a70534cb2f99d36acd831853b91ccb"
                  }
 }
