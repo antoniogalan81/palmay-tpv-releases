@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.83",
+    "version":  "1.0.84",
     "releaseDate":  "2026-11-08",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.83/Gest7-1.0.83-actualizacion.zip",
-    "sha256":  "712948e60039b806cfe3f252737a9bba1a9ce50acb0737e4af238397ddec3afe",
-    "notes":  "Tras actualizar desde la 1.0.81 la caja vuelve con la misma empleada; el portal avisa si el cuadrante esta en preparacion",
-    "firma":  "6dG6iqXYkb4FZ6qVpV0BqSLoAaVlIM76DPyzsCFwbWwV1OGPIby4CZ359VKOl35DFxhZf8g7f+MvFzRKWI+JDg==",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.84/Gest7-1.0.84-actualizacion.zip",
+    "sha256":  "7dd692a7f1f124787b90b809d208dce56bc4f00f1c55ddbc7899d227f40b5772",
+    "notes":  "Descuentos sin PIN con motivo opcional y aviso en Alertas; aplicar inventario y confirmar entradas con el PIN de quien autoriza; si se abre desde dentro del ZIP se instala en una carpeta estable",
+    "firma":  "dAzsGOrcf9RvW87YQEhNlFneRG7FMicM6CHLl48wrWSZAJUOwZLlYgx+ARVkrGPOiUxEPkxjTmfutgFaTsFeAw==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.83/Gest7-1.0.83.zip",
-                     "sha256":  "92d4107da3ac7b382707345bf181ecc1352306071cdfa6e398e2b29e03323ce5"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.84/Gest7-1.0.84.zip",
+                     "sha256":  "98802940582d32e1a1c1cc65b9da39982a0d3f7a6dc151d33d50c47a55ae83fa"
                  }
 }
