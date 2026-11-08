@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.81",
-    "releaseDate":  "2026-11-07",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.81/Gest7-1.0.81-actualizacion.zip",
-    "sha256":  "f125e8dbf7b3bc9c2e0083d8c9f7dc842c4cfaf175dde91be3474f35235d533b",
-    "notes":  "Corregir forma de pago en un solo editor (efectivo, tarjeta, vale, mixto); los indicadores de variantes anaden su prenda; Perfil abre el portal de personal",
-    "firma":  "uDvQtYqExTXCoYR4netuXWbWWURdEFVCCtxLIHcn5SF61/udEhpnmFfzn/yCylPFXgNlVwef2E+sbEM/YbnpAQ==",
+    "version":  "1.0.82",
+    "releaseDate":  "2026-11-08",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.82/Gest7-1.0.82-actualizacion.zip",
+    "sha256":  "e22094e4b4328a5f4b614568780112370a44137f41e60f37af4c04f5887c8826",
+    "notes":  "Tras Actualizar ahora la caja vuelve con la misma empleada; Perfil abre el portal ya identificada; aviso Actualizacion lista para instalar",
+    "firma":  "OzxfLlU5jE5EoJjnJjbKJGkqBT1Xe5YUtnJFpjACJ0OAlkJAoH6UKgmjGRYyBBYaIgE+g+t4uHiaBu/V/ttQBg==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.81/Gest7-1.0.81.zip",
-                     "sha256":  "249da3f96bb02d7849790040e8e14ff262a70534cb2f99d36acd831853b91ccb"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.82/Gest7-1.0.82.zip",
+                     "sha256":  "e14008818fbe29979ffe0f219a18db7d63b3d5f60fd6b18469b9141df51029e5"
                  }
 }
