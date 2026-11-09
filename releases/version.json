@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.85",
+    "version":  "1.0.86",
     "releaseDate":  "2026-11-09",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.85/Gest7-1.0.85-actualizacion.zip",
-    "sha256":  "7ea56ef3b35716d5af2f430e0626e11f79cc9ad6c16b2007e69c0f233bc34d72",
-    "notes":  "La caja abierta desde dentro del ZIP pasa a una instalacion estable y vuelve a poder actualizarse. Atendido por (opcional) en el cobro; las comisiones no cambian.",
-    "firma":  "yHegwnmtZfRmg5pIdsQ+HcCDIo19g0UxIPShvWIue/KAt2Rb8pKZu6Hdlcr1vFF/fb6BiyNxRTH2OsYEKGu4Dw==",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.86/Gest7-1.0.86-actualizacion.zip",
+    "sha256":  "25012893768ac41e3a80ff773025c1bd2f910b6faa307b06c25bd316bd69e29f",
+    "notes":  "Alertas: las tarjetas filtran como sus botones. Inventario con la camara del movil. Ventas aparcadas sin restos de descuento. Reintento de la sincronizacion tras actualizar.",
+    "firma":  "kcXoTrutWPWzz+eedFl+4XXSRcmazQxiqlqPaFdB1XcsNhhJYj5oFE/MPJ/70u4pp1/LXemwZvHZ3rbgrXzkCg==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.85/Gest7-1.0.85.zip",
-                     "sha256":  "a5b09521d4eb92c47f3f406b82c42dbe66847fdf62b99a120436a04b94f96f28"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.86/Gest7-1.0.86.zip",
+                     "sha256":  "68391ea70cc7be916ea64652cd5f1d1ec555457ef6a6db544bbbcd44b53fa8d3"
                  }
 }
