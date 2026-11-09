@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.84",
-    "releaseDate":  "2026-11-08",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.84/Gest7-1.0.84-actualizacion.zip",
-    "sha256":  "7dd692a7f1f124787b90b809d208dce56bc4f00f1c55ddbc7899d227f40b5772",
-    "notes":  "Descuentos sin PIN con motivo opcional y aviso en Alertas; aplicar inventario y confirmar entradas con el PIN de quien autoriza; si se abre desde dentro del ZIP se instala en una carpeta estable",
-    "firma":  "dAzsGOrcf9RvW87YQEhNlFneRG7FMicM6CHLl48wrWSZAJUOwZLlYgx+ARVkrGPOiUxEPkxjTmfutgFaTsFeAw==",
+    "version":  "1.0.85",
+    "releaseDate":  "2026-11-09",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.85/Gest7-1.0.85-actualizacion.zip",
+    "sha256":  "7ea56ef3b35716d5af2f430e0626e11f79cc9ad6c16b2007e69c0f233bc34d72",
+    "notes":  "La caja abierta desde dentro del ZIP pasa a una instalacion estable y vuelve a poder actualizarse. Atendido por (opcional) en el cobro; las comisiones no cambian.",
+    "firma":  "yHegwnmtZfRmg5pIdsQ+HcCDIo19g0UxIPShvWIue/KAt2Rb8pKZu6Hdlcr1vFF/fb6BiyNxRTH2OsYEKGu4Dw==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.84/Gest7-1.0.84.zip",
-                     "sha256":  "98802940582d32e1a1c1cc65b9da39982a0d3f7a6dc151d33d50c47a55ae83fa"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.85/Gest7-1.0.85.zip",
+                     "sha256":  "a5b09521d4eb92c47f3f406b82c42dbe66847fdf62b99a120436a04b94f96f28"
                  }
 }
