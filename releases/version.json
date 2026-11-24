@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.87",
-    "releaseDate":  "2026-11-23",
-    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.87/Gest7-1.0.87-actualizacion.zip",
-    "sha256":  "ee584aec1050cbd3846f830e2edd172218f53b2cb2046895efe1df49bed48535",
-    "notes":  "Nueva pantalla de venta Mostrador: operaciones en un panel lateral, importes en botones grandes y el carrito como ticket con COBRAR y el importe. Importes con coma, cierre de caja en dos columnas y botones mas grandes.",
-    "firma":  "z6rq6iZGsr65Q1MDDubKLuTHJ1bhRGk1WPHSA6Q0PahE16ckxgQLP1x9CmZh76N50p3RZFNmRyyHif3oQOn8Aw==",
+    "version":  "1.0.88",
+    "releaseDate":  "2026-11-24",
+    "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.88/Gest7-1.0.88-actualizacion.zip",
+    "sha256":  "6c4cd70514cccf2332ffd2b37de793a2118469eda426ae8ebac7e43f418e1e08",
+    "notes":  "Botones de importe mas compactos: entran mas precios en pantalla con el mismo tamano de numeros, los mismos colores y tramos. Mismos precios y mismo funcionamiento al pulsar.",
+    "firma":  "MBU/XNLqD4mtBZSc/oxXBXeGt+Tr8VO65ciaOCcD+w56JgmzZjajZacnBkXx0G0z0ZcPorE/i8ufabh/JmWoBQ==",
     "descarga":  {
-                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.87/Gest7-1.0.87.zip",
-                     "sha256":  "0da63037db13bc8f8794a8f9ca0e01945f0602e8349712921240192816db54b2"
+                     "url":  "https://github.com/antoniogalan81/palmay-tpv-releases/releases/download/v1.0.88/Gest7-1.0.88.zip",
+                     "sha256":  "ae27f551d7aca1bb0c139ca4b6fd91a66a5e636e4ebac26dc3272ff335d1862b"
                  }
 }
